@@ -1,0 +1,7 @@
+{
+    "version":  "2.6.0",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/NiuLaiPet-Setup-v2.6.0.bat",
+    "sha256":  "c05ebb77da28212b7db3ced6fd7e1d3bb7d080eab5d512067d100c36bffff970",
+    "date":  "2026-08-27",
+    "notes":  "新增：联网检查更新；债券可搜（可转债/国债/逆回购）；打伞时头顶下雨；安装时可选安装位置。"
+}
