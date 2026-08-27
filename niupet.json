@@ -1,7 +1,7 @@
 {
-    "version":  "2.6.1",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.6.1.bat",
-    "sha256":  "716ef01b25cd9d442d4981f46001c19066c9a0e2f10e6efa1c2c26701ff6d6ad",
+    "version":  "2.7.0",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.7.0.bat",
+    "sha256":  "40dcf3f99f58d5a10a25735d1da41bf83aa478bddc9a441c7573f46803d17fa3",
     "date":  "2026-08-27",
-    "notes":  "修正：下载的安装包会用回原本的中文文件名，方便辨认。"
+    "notes":  "整点报时改成气泡显示不再出声；装扮新增「跟着节假日换」模式；天气设置精简为跟随IP/城市；更新地址固定。"
 }
