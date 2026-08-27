@@ -1,7 +1,7 @@
 {
-    "version":  "2.6.0",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.6.0.bat",
-    "sha256":  "c05ebb77da28212b7db3ced6fd7e1d3bb7d080eab5d512067d100c36bffff970",
+    "version":  "2.6.1",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.6.1.bat",
+    "sha256":  "716ef01b25cd9d442d4981f46001c19066c9a0e2f10e6efa1c2c26701ff6d6ad",
     "date":  "2026-08-27",
-    "notes":  "新增：联网检查更新；债券可搜（可转债/国债/逆回购）；打伞时头顶下雨；安装时可选安装位置。"
+    "notes":  "修正：下载的安装包会用回原本的中文文件名，方便辨认。"
 }
