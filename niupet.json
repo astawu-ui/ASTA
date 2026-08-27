@@ -1,7 +1,13 @@
 {
-    "version":  "2.7.0",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.7.0.bat",
-    "sha256":  "40dcf3f99f58d5a10a25735d1da41bf83aa478bddc9a441c7573f46803d17fa3",
+    "version":  "2.8.0",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v2.8.0.bat",
+    "sha256":  "285db7178425802ad40321a27b983bfa7e50c11161106709a983ea2b63913394",
     "date":  "2026-08-27",
-    "notes":  "整点报时改成气泡显示不再出声；装扮新增「跟着节假日换」模式；天气设置精简为跟随IP/城市；更新地址固定。"
+    "notes":  [
+                  "新增打新日历：当天能申购的新股、新债会贴一张小纸条，给的是申购代码",
+                  "更新提示里能看到这一版改了什么，展开还能看下载地址和校验码",
+                  "整点报时改成气泡显示，不再出声",
+                  "节日装扮新增「跟着节假日换」模式，不跟电商大促",
+                  "天气设置精简成跟随 IP 或自己选城市"
+              ]
 }
