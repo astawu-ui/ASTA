@@ -1,10 +1,9 @@
 {
-    "version":  "3.4.3",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.4.3.bat",
-    "sha256":  "e9ad38df24e30ad73ced0d3b2b206f48679df99c18d148a2f563eaa802f45431",
-    "date":  "2026-10-12",
+    "version":  "3.4.4",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.4.4.bat",
+    "sha256":  "56a6c3e58936a6a96716848bdc46495eca3fee8e7e71856c30e15414810ecced",
+    "date":  "2026-10-14",
     "notes":  [
-                  "新增 气泡可以不显示股票名字，只显示数值变动：设置 → 外观 → 勾上「气泡不显示股票名字，只显示数值变动」",
-                  "滚动、常显、变动提醒三种气泡模式都生效；保留「第几条」的序号，行情取不到时也不露代码。到价提醒不受影响"
+                  "修复了一些已知bug"
               ]
 }
