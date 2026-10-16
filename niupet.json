@@ -1,9 +1,10 @@
 {
-    "version":  "3.4.4",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.4.4.bat",
-    "sha256":  "56a6c3e58936a6a96716848bdc46495eca3fee8e7e71856c30e15414810ecced",
-    "date":  "2026-10-14",
+    "version":  "3.4.5",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.4.5.bat",
+    "sha256":  "60a9a6691093f6f18a2ce64418a93e7ee43c1da0e7aec2ed868da03030b48ddc",
+    "date":  "2026-10-16",
     "notes":  [
-                  "修复了一些已知bug"
+                  "新增 一键喂满：一次喂到 100，按实际喂的次数扣积分（积分不够就喂到积分花光）",
+                  "入口：右键桌宠的快捷面板「一键喂满」、托盘菜单、养成状态面板"
               ]
 }
