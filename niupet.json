@@ -1,9 +1,10 @@
 {
-    "version":  "3.5.1",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.5.1.bat",
-    "sha256":  "c59f5fa0a68bcee197e43deac6912891704dfdd445acba649bdae5558de36ea8",
-    "date":  "2026-10-16",
+    "version":  "3.6.0",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.6.0.bat",
+    "sha256":  "6b204df1dee1dba608e447589343f2562557e974e9560fcebbeda899ac759707",
+    "date":  "2026-10-19",
     "notes":  [
-                  "修复了一些已知bug"
+                  "新增 每日签：快捷面板「🎋 每日签」/ 托盘菜单，点一下摇签，每天一支，抽过就固定",
+                  "好签多：大吉、上吉、中吉共占约八成，没有凶签；签文含签诗、解签、宜忌、幸运色和幸运数字（纯属娱乐）"
               ]
 }
