@@ -1,9 +1,9 @@
 {
-    "version":  "3.6.0",
-    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.6.0.bat",
-    "sha256":  "6b204df1dee1dba608e447589343f2562557e974e9560fcebbeda899ac759707",
-    "date":  "2026-10-19",
+    "version":  "3.6.1",
+    "url":  "https://raw.githubusercontent.com/astawu-ui/ASTA/main/%E7%89%9B%E6%9D%A5%E4%BA%86%E6%A1%8C%E5%AE%A0-%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-v3.6.1.bat",
+    "sha256":  "ec9d00c1beae28482e112eaaa6b7af299b90f740f29c4c1bc4c81b33899b3f5a",
+    "date":  "2026-10-22",
     "notes":  [
-                  "新增 每日签"
+                  "打新提醒改为每天早上 10 点"
               ]
 }
